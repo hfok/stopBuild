@@ -1,7 +1,0 @@
-type: Rock
-name: stopBuild
-description: stopBuild
-size: 1
-solid: false
-breakable: false
-alwaysReplace: false
